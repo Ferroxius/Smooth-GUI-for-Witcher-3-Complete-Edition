@@ -1,4 +1,4 @@
-# 60fps GUI
+# Smooth GUI for Witcher 3 Complete Edition
 ### Introduction
 A simple modification to the games redswfs to increase the framerate of the UI to 60fps creating a much more smoother experience
 
