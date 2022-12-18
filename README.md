@@ -12,7 +12,7 @@ This mod will conflict with most other mods that edit redswf files. This mod sho
 ### Installation
 Download the main file under "releases". Extract the file from the archive and place the mod in your main directory/mods folder. If this folder does not exist, create it
 
-### Uninsatllation
+### Uninstallation
 Take the mod file out of the mods folder
 
 ### Credits
