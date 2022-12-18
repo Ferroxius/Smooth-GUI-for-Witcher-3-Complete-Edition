@@ -4,6 +4,8 @@ A simple modification to the games redswfs to double the framerate of the UI to 
 
 Due to the nature of flash files, this will mean that any animations or transitions in the UI will now move at twice their original speed. There is no workaround for this apart from redoing every animation which is very time consuming
 
+This mod is based on the original 60fps GUI mod by MrFlashMode. Do endorse the original mod (https://www.nexusmods.com/witcher3/mods/3501)
+
 ### Compatability
 This mod will conflict with most other mods that edit redswf files. This mod should act as a baseline though so give other mods priority over this one
 
