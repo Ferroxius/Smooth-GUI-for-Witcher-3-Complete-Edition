@@ -9,6 +9,14 @@ This mod is based on the original 60fps GUI mod by MrFlashMode. Do endorse the o
 ### Compatability
 This mod will conflict with most other mods that edit redswf files. This mod should act as a baseline though so give other mods priority over this one
 
+I have made adaptations for some mods that also edit redswf files. The following are supported:
+- All Quest Objectives On Map (Standard and Full)
+- Colored Map Markers (Normal and AQOOM)
+- Sort Everything
+
+If you are using one of these then download the additional "Adaptations" file, look for the relevant patch and install it into the mod folder. I have marked some folders with "OG Mod Required" indicating that you need the original mod as well as the adaptation
+Make sure that the adaptation has priority over both Smooth GUI and the adapted mod
+
 ### Installation
 Download the main file under "releases". Extract the file from the archive and place the mod in your main directory/mods folder. If this folder does not exist, create it
 
