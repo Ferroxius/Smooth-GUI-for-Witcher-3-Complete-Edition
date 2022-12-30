@@ -25,5 +25,5 @@ Take the mod file out of the mods folder
 
 ### Credits
 - MrFlashMode for creating the original 60fps GUI
-- Wolfmark for All Quest Objectives On Map
+- Wolfmark for All Quest Objectives On Map files
 - DJ_Kovrik for Colored Map Markers and Sort Everything files
