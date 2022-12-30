@@ -24,4 +24,6 @@ Download the main file under "releases". Extract the file from the archive and p
 Take the mod file out of the mods folder
 
 ### Credits
-MrFlashMode for creating the original 60fps GUI
+- MrFlashMode for creating the original 60fps GUI
+- Wolfmark for All Quest Objectives On Map
+- DJ_Kovrik for Colored Map Markers and Sort Everything files
