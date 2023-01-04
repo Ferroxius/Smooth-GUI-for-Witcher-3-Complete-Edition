@@ -14,6 +14,7 @@ I have made adaptations for some mods that also edit redswf files. The following
 - Colored Map Markers (Normal and AQOOM)
 - Sort Everything
 - Slots Slots SLOTS
+- Gwent Redux
 
 If you are using one of these then download the additional "Adaptations" file, look for the relevant patch and install it into the mod folder. I have marked some folders with "OG Mod Required" indicating that you need the original mod as well as the adaptation
 Make sure that the adaptation has priority over both Smooth GUI and the adapted mod
@@ -29,3 +30,4 @@ Take the mod file out of the mods folder
 - Wolfmark for All Quest Objectives On Map files
 - DJ_Kovrik for Colored Map Markers and Sort Everything files
 - Zur13 for Slots Slots SLOTS files
+- Majestic511 for Gwent Redux files
